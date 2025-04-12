@@ -1,2 +1,2 @@
-# Flow_Measurment
-This project demonstrates real-time water flow measurement using the YF-S201 water flow sensor, with the volume displayed in liters on a 16x2 LCD. The pulse signals from the sensor are counted using the 8051-based AT89C51 microcontroller to calculate the total water volume.
+#Block Diagram of Flow Measurment Project
+![image](https://github.com/user-attachments/assets/3edcf832-3e28-4d36-a588-d368f2c80496)
